@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afex41
 - 👀 I’m interested in r programming 
--  🌱 I’m currently learning masters in statistics
+-  🌱 I’m currently persuing masters in statistics
 
 
 <!---
